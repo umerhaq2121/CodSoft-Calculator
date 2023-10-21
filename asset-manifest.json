@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodSoft-Calculator/static/css/main.04cf7160.css",
+    "main.js": "/CodSoft-Calculator/static/js/main.3991ecda.js",
+    "static/js/787.a174f9e5.chunk.js": "/CodSoft-Calculator/static/js/787.a174f9e5.chunk.js",
+    "index.html": "/CodSoft-Calculator/index.html",
+    "main.04cf7160.css.map": "/CodSoft-Calculator/static/css/main.04cf7160.css.map",
+    "main.3991ecda.js.map": "/CodSoft-Calculator/static/js/main.3991ecda.js.map",
+    "787.a174f9e5.chunk.js.map": "/CodSoft-Calculator/static/js/787.a174f9e5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04cf7160.css",
+    "static/js/main.3991ecda.js"
+  ]
+}
